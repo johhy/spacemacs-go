@@ -25,4 +25,4 @@ ARG SHA=47fda42e46b4c3ec93fa5d4d4cc6a748aa3f9411a2a2b7e08e3a6d80d753ec8b
 ARG SPACEMACS_URL=https://github.com/syl20bnr/spacemacs
 
 
-You can change default arguments - for example version of golang archive.
+You can change default arguments - for example version of golang archive and sha.
